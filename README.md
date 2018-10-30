@@ -57,5 +57,8 @@ Note:
 * It is tested on pytorch 0.3 
 * You need to setup [pyrouge](https://github.com/andersjo/pyrouge) to get the rouge score
 
-
+EDIT :
+1. Processing the data in a CNN/Dailymail format to run using PyTorch for pointer generator.
+2. Edit the program to recieve the required number of documents (cnn/ dailymail data is hard coded into the pointer generator program).
+3. Work on extractive summarization
 
